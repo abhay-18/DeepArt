@@ -7,8 +7,7 @@ This repo contains implementation of model that generate novel artistic images u
 - The style cost function for one layer is computed using the Gram matrix of that layer's activations. The overall style cost function is obtained using several hidden layers.
 - Optimizing the total cost function results in synthesizing new images.
 
-- [![Open in Colab](https://raw.githubusercontent.com/abhay-18/DeepArt/master/colab.svg)](https://githubtocolab.com/abhay-18/DeepArt/blob/master/Neural_Style_Transfer.ipynb "Open Notebook")
-Colab Notebook
+- [![Open in Colab](https://raw.githubusercontent.com/abhay-18/DeepArt/master/colab.svg)](https://githubtocolab.com/abhay-18/DeepArt/blob/master/Neural_Style_Transfer.ipynb "Open Notebook") Colab Notebook
 
 <div style="text-align: center;">
   <img src="output/final_output.png" alt="final_output" style="max-width:75%;">
