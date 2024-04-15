@@ -2,4 +2,4 @@ nst
 .ipynb_checkpoints
 Art_Generation_with_Neural_Style_Transfer.ipynb
 pretrained-model/imagenet-vgg-verydeep-19.mat
-Neural_Style_Transfer.ipynb
+# Neural_Style_Transfer.ipynb
