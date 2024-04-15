@@ -17,5 +17,4 @@ The Neural Style Transfer algorithm was due to Gatys et al. (2015).
 The pre-trained network used in this implementation is a VGG network, which is due to Simonyan and Zisserman (2015). Pre-trained weights were from the work of the MathConvNet team.
 
 - Leon A. Gatys, Alexander S. Ecker, Matthias Bethge, (2015). [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
-- Karen Simonyan and Andrew Zisserman (2015). [Very deep convolutional networks for large-scale image recognition](https://arxiv.org/pdf/1409.1556.pdf)
-- [MatConvNet.](http://www.vlfeat.org/matconvnet/pretrained/)
+- Karen Simonyan and Andrew Zisserman (2015). [Very deep convolutional networks for large-scale image recognition](https://arxiv.org/pdf/1409.1556.pdf)[MatConvNet.](http://www.vlfeat.org/matconvnet/pretrained/)
